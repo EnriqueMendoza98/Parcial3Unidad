@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29378111796",
+    "project_id": "usuarios-ac7cc",
+    "storage_bucket": "usuarios-ac7cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29378111796:android:1a8e9e96d6ceb401e55d61",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29378111796-m8q27ciq5m0g03coj3lgvhipcrqta3c6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWm2mA6J-rboY1nfiod1Z1Ed7XrPaGJzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29378111796-m8q27ciq5m0g03coj3lgvhipcrqta3c6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
